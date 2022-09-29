@@ -17,6 +17,8 @@
   <img align="center" alt="Cristolfe-Js" height="30" width="40" src="https://avatars.githubusercontent.com/u/82662425?v=4">
   <img align="center" alt="Cristolfe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cristolfe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cristolfe-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="Cristolfe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br>
   <br>
