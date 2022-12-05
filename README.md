@@ -1,6 +1,6 @@
 ## <h1>Ícaro Cristolfe </h1>
 
-<p>Nascido em 14 de julho de 1996 em uma cidade do interior do ES, aos 22 comecei a trabalhar como eletricista de rede de distribuição que é meu atual emprego, nas horas vagas estudo sobre desenvolvimento onde ja tenho algum conhecimento em Html, CSS, JavaScript, NodeJS, ReactJS, Styled-Components, Docker, Postgres, Mongodb, entre outros. </p>
+<p>Desenvolvedor Full Stack, apaixonado por tecnologia e um sonhador desde pequeno, través do meu conhecimento desejo ajudar pessoas ao meu redor desenvolvendo soluções práticas com o intuito de facilitar processos de maior dificuldade. </p>
  <div>
   <a href="https://github.com/Icristolfe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icristolfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
