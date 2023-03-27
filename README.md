@@ -1,36 +1,72 @@
 ## <h1>Ícaro Cristolfe </h1>
 
-<p>Desenvolvedor Full Stack, apaixonado por tecnologia e um sonhador desde pequeno, través do meu conhecimento desejo ajudar pessoas ao meu redor desenvolvendo soluções práticas com o intuito de facilitar processos de maior dificuldade. </p>
- <div>
-  <a href="https://github.com/Icristolfe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icristolfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <br>
+<h1 align='center'>
+  Eu sou Ícaro Cristolfe
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+<p align='center'>
+   Desenvolvedor Fullstack
+</p>
   <br>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icristolfe&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
-  <br>
-  
 
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Cristolfe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cristolfe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cristolfe-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Cristolfe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
- <img align="center" alt="Cristolfe-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" >
+###  Sobre mim:
 
- 
- <img align="center" alt="Cristolfe-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg">
- 
- <img align="center" alt="Cristolfe-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg">
- 
- <img align="center" alt="Cristolfe-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg">
-  <br>
-  <br>
+<p>
+  <em>
+    Tenho 26 anos, sou do Espírito Santo e atualmente trabalho como Freelancer.
+    Desenvolvedor Full Stack, apaixonado por tecnologia e um sonhador desde sempre, através do meu conhecimento desejo ajudar pessoas ao meu redor desenvolvendo soluções práticas com o intuito de facilitar processos de maior dificuldade.
+
+  </em>
+</p>
+
+- Estudando e aprimorando minhas habilidades em ReactJS, Reat Native e NodeJS.
+- 🚀 Aluno no Devclub.
+- 📫 Meu e-mail: cristolfeicaro@gmail.com
+
+### 2023 :
+
+- Continuar buscando conhecimento.
+
+- Expandir e melhorar minhas habilidades
+
+- Conheça pessoas e lugares incríveis este ano.
+
+- Criar um projeto pessoal que aplique todo o conhecimento obtido ao longo do meu percurso, bem como a implementação de novas tecnologias.
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,jest,bootstrap,materialui)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,postgres)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,linux)](https://skillicons.dev)
+
+### 📈 My Statistics
+
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Icristolfe&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icristolfe&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+
+| My Streak                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Icristolfe&theme=jolly)](https://git.io/streak-stats) |
+
+💬 Want to get in touch?
+
+<div>
   
 
   <p align="left">
@@ -51,3 +87,6 @@
 </p>  
  
 </div>
+<br>
+<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
+
