@@ -48,7 +48,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,postgres)](https://skillicons.dev)
 
 - Plataformas
 
