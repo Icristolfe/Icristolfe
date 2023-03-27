@@ -17,15 +17,16 @@
 
 <p>
   <em>
-    Tenho 26 anos, sou do Espírito Santo e atualmente trabalho como Freelancer.
-    Desenvolvedor Full Stack, apaixonado por tecnologia e um sonhador desde sempre, através do meu conhecimento desejo ajudar pessoas ao meu redor desenvolvendo soluções práticas com o intuito de facilitar processos de maior dificuldade.
+    Olá, eu sou um desenvolvedor Full Stack freelancer com 26 anos de idade, e estou sediado no Espírito Santo. Eu sou apaixonado por tecnologia e sempre fui um sonhador. Meu objetivo é usar meu conhecimento para ajudar pessoas a desenvolver soluções práticas que facilitem processos que, de outra forma, poderiam ser difíceis de realizar. Sou um entusiasta da inovação e estou sempre buscando novas maneiras de resolver problemas.
+    Como desenvolvedor Full Stack, tenho habilidades tanto no desenvolvimento de front-end quanto no back-end, o que me permite criar soluções completas e personalizadas para as necessidades dos meus clientes. Sou dedicado e comprometido em fornecer um trabalho de qualidade e entregar projetos no prazo estipulado.
+    Se você precisar de ajuda para desenvolver uma solução tecnológica, estou pronto para ajudar. Sinta-se à vontade para entrar em contato comigo para discutir seu projeto. Obrigado pela oportunidade de compartilhar um pouco sobre mim.
 
   </em>
 </p>
 
 - Estudando e aprimorando minhas habilidades em ReactJS, Reat Native e NodeJS.
-- 🚀 Aluno no Devclub.
-- 📫 Meu e-mail: cristolfeicaro@gmail.com
+- Aluno no Devclub.
+- Meu e-mail: cristolfeicaro@gmail.com
 
 ### 2023 :
 
@@ -37,9 +38,9 @@
 
 - Criar um projeto pessoal que aplique todo o conhecimento obtido ao longo do meu percurso, bem como a implementação de novas tecnologias.
 
-### ⚡ Technologies:
+###  Technologies:
 
-These are some of the technologies and tools I use:
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
 - Front-End
 
@@ -49,22 +50,22 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,postgres)](https://skillicons.dev)
 
-- Tools and Plataforms
+- Plataformas
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,linux)](https://skillicons.dev)
 
-### 📈 My Statistics
+### Minhas Estatísticas
 
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| Statistics                                                                                                                                                            | Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Icristolfe&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icristolfe&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 
-| My Streak                                                                                                                                                             |
+| Streak                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=Icristolfe&theme=jolly)](https://git.io/streak-stats) |
 
-💬 Want to get in touch?
+Quer entrar em contato?
 
 <div>
   
@@ -88,5 +89,5 @@ These are some of the technologies and tools I use:
  
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
+<p> <span style="font-style:italic">"always hoping for the best"</span></p>
 
