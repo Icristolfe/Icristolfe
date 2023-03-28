@@ -88,6 +88,8 @@ Quer entrar em contato?
 </p>  
  
 </div>
+![Snake animation](https://github.com/Icristolfe/Icristolfe/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <p> <span style="font-style:italic">"always hoping for the best"</span></p>
 
