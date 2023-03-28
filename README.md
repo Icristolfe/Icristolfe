@@ -86,7 +86,7 @@ Quer entrar em contato?
   <a href="https://www.instagram.com/cristolfe/" alt="Instagram" target="_blanked">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
- ![Snake animation](https://github.com/Icristolfe/Icristolfe/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
