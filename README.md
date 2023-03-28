@@ -88,6 +88,8 @@ Quer entrar em contato?
 </p>  
 
 </div>
+<img src="https://github.com/Icristolfe/Icristolfe/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
 
 
 <br>
