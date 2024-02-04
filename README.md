@@ -17,18 +17,15 @@
 
 <p>
   <em>
-    Olá, eu sou um desenvolvedor Full Stack freelancer com 26 anos de idade, e estou sediado no Espírito Santo. Eu sou apaixonado por tecnologia e sempre fui um sonhador. Meu objetivo é usar meu conhecimento para ajudar pessoas a desenvolver soluções práticas que facilitem processos que, de outra forma, poderiam ser difíceis de realizar. Sou um entusiasta da inovação e estou sempre buscando novas maneiras de resolver problemas.
-    Como desenvolvedor Full Stack, tenho habilidades tanto no desenvolvimento de front-end quanto no back-end, o que me permite criar soluções completas e personalizadas para as necessidades dos meus clientes. Sou dedicado e comprometido em fornecer um trabalho de qualidade e entregar projetos no prazo estipulado.
-    Se você precisar de ajuda para desenvolver uma solução tecnológica, estou pronto para ajudar. Sinta-se à vontade para entrar em contato comigo para discutir seu projeto. Obrigado pela oportunidade de compartilhar um pouco sobre mim.
+    Desenvolvedor Full-Stack com experiência em Front-end e Back-end.
+Busco soluções eficientes, combinando conhecimento técnico e habilidades de resolução de problemas. Sempre em busca de novos desafios e oportunidades para aprender e aprimorar habilidades. Além disso, acredito que o trabalho em equipe é fundamental para o sucesso de um projeto.
+
+Stacks: HTML, CSS/SASS, Javascript, Python, Django, ReactJs, React Native, Styled-Components, API Rest, Tailwind, Material UI, Redux, Storybook, Design Atomico, Nodejs, MongoDB, Postgres, Docker, ferramentas como Sequelize, Mongoose, Express, Axios, Multer, entre outras ferramentas.
 
   </em>
 </p>
 
-- Estudando e aprimorando minhas habilidades em ReactJS, Reat Native e NodeJS.
-- Aluno no Devclub.
-- Meu e-mail: cristolfeicaro@gmail.com
-
-### 2023 :
+### 2024 :
 
 - Continuar buscando conhecimento.
 
