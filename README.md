@@ -47,6 +47,10 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,postgres)](https://skillicons.dev)
 
+- Mobile 
+
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 - Plataformas
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,linux)](https://skillicons.dev)
